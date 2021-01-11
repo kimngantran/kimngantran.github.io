@@ -10,7 +10,7 @@ function Job(props) {
       </div>
       <div className="col col-12 col-sm-10 col-lg-7">
         <p className="text-muted">
-          {props.description} <a href="{props.link}" target="_blank" rel='noreferrer'>{props.link}</a>
+          {props.description} <a href={props.link} target="_blank" rel='noreferrer'>{props.link}</a>
         </p>
         
       </div>

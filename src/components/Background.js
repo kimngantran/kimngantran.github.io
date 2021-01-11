@@ -30,6 +30,26 @@ function Background() {
         description="Responsible for multiple roles from sale to marketing. Participated in all aspects including researching, planning, executing and reporting marketing strategies. Created, published articles on the company website; analyzed traffic using Google Analytics to make recommendations and adjustments. For more information about the business please visit: "
         link="https://edu2review.com"
       />
+
+      <h3 className="my-5">My Skills</h3>
+      <p className="text-muted">Through my studies and experiences, I have gained a solid understanding of digital marketing, marketing management and strategic marketing and have dedicated a lot of my free time to learn new technical skills.</p>
+      <ul className="mt-5">
+        <li>
+          <p><strong>Digital marketing:</strong> A solid knowledge in digital marketing strategies such as SEO, social media ads, content management and experience in digital marketing segmentation.</p>
+        </li>
+        <li>
+          <p><strong>Marketing analytics, report and research:</strong> In-depth knowledge of digital marketing analytics including web analytics in Google Analytics, native social media analytics. Strong marketing research skills in conducting qualitative and quantitative research.</p>
+        </li>
+        <li>
+          <p><strong>Social Media Management:</strong> Solid understanding of social media channels (i.e. Website, Facebook, Instagram, LinkedIn, etc.) and online user experience.</p>
+        </li>
+        <li>
+          <p><strong>CRM: </strong> Salesforce, Hubspot.</p>
+        </li>
+        <li>
+          <p><strong>Tools and Technologies: </strong> Canva, Lightroom, Procreate, HTML, CSS, Google Webmaster Tools, Keyword Planner, Google Analytics, Microsoft Office, iMovie, Keynote, Survey Monkey, Mailchimp.</p>
+        </li>
+      </ul>
     </div>
   );
 }
