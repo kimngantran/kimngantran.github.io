@@ -1,4 +1,5 @@
 function About() {
+
 	return (
 		<div id="about" className="p-5 row bg-ngan-a">
 			<div className="col col-12 col-sm-12 col-lg-5 text-center mb-5 about-img">
@@ -33,29 +34,24 @@ function About() {
 					through customer-centric journey maps as well as the buyer persona.
 				</p>
 				<p>
-					I came to Canada from Vietnam as an international student in 2018. I
-					completed 2 post-graduate certificates including Strategic
-					Relationship Marketing and Marketing Management and Financial Services
-					at George Brown College.
-				</p>
-				<p>
-					I graduated from university with a major in Business English. Soon
-					before graduation, I found myself having a passion for digital
-					marketing then started my career as a content creation at a start-up
-					company. I do love creating content so much that I launched my own
-					Facebook fan page with around 10,000k followers to satisfy my hobby.
-				</p>
-				<p>
 					Data speak louder than words. Taking a deep dive on analytics is
 					essential in understanding what your audience needs and wants. I truly
 					believe in data-driven marketing for better business decision making
 					and develop a stronger relationship with customers.
 				</p>
 				<p>
-					After 2 years of hard-work and gained intensive experience in Vietnam,
-					I realized that proper training is necessary in order to succeed in
-					the marketing world. The decision to leave a growing career path is a
-					huge one, especially moving to a foreign country. Yes, it is indeed
+					I came to Canada from Vietnam as an international student in 2018. I
+					completed 2 post-graduate certificates including Strategic
+					Relationship Marketing and Marketing Management and Financial Services
+					at George Brown College.
+				</p>
+				<p>
+					I graduated from university with a major in Linguistics. Soon
+					before graduation, I found myself having a passion for digital
+					marketing then started my career as a content creation at a tech start-up company. I do love creating content so much that I launched my own Facebook fan page with around 10,000k followers to satisfy my hobby.
+				</p>
+				<p>
+					After 2 years of hard-work and gained intensive experience in marketing, I realized that proper training is necessary. The decision to leave a growing career path is a  c vVhuge one, especially moving to a foreign country. Yes, it is indeed
 					difficult and challenging. But the reward is huge as well, that helps
 					me build my resilience, strength and flexibility.
 				</p>

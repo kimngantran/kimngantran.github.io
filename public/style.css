@@ -71,5 +71,8 @@ span.carousel-control-prev-icon {
 
 #footer {
   background-image: url("./img/footer.png");
-  opacity: 0.7;
+  opacity: 0.9;
+}
+.footer {
+  text-shadow: 2px 2px 5px black;
 }
