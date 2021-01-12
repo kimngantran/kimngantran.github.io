@@ -51,7 +51,7 @@ function About() {
 					marketing then started my career as a content creation at a tech start-up company. I do love creating content so much that I launched my own Facebook fan page with around 10,000k followers to satisfy my hobby.
 				</p>
 				<p>
-					After 2 years of hard-work and gained intensive experience in marketing, I realized that proper training is necessary. The decision to leave a growing career path is a  c vVhuge one, especially moving to a foreign country. Yes, it is indeed
+					After 2 years of hard-work and gained intensive experience in marketing, I realized that proper training is necessary. The decision to leave a growing career path is a huge one, especially moving to a foreign country. Yes, it is indeed
 					difficult and challenging. But the reward is huge as well, that helps
 					me build my resilience, strength and flexibility.
 				</p>
